@@ -2,3 +2,4 @@ repa
 brokkoli
 jegsalata
 cekla
+krumpli
